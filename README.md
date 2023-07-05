@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hancodx&label=Profile%20views&color=0e75b6&style=flat" alt="hancodx" /> </p>
 
-- 🌱 I’m currently learning **Cyber Security, AI**
+- 🌱 I’m currently learning **Cyber Security
+-    AI
+-   
 
 <h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chahine.bendjeddou.9) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chahine_bendjeddou) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hind-sameut-612b14237) 
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/hancodx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hancodx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hind-sameut-612b14237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hind-sameut-612b14237" height="30" width="40" /></a>
