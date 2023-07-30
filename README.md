@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hancodx&label=Profile%20views&color=0e75b6&style=flat" alt="hancodx" /> </p>
 
-- 🌱 I’m currently learning **Cyber Security
+- 🌱 I’m currently learning
+-    Cyber Security
 -    Artificial intelligence
 
 <h3 align="left">Connect with me:</h3>
